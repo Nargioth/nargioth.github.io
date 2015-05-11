@@ -1,0 +1,96 @@
+html{
+	font:100% 'Source Sans Pro';
+	
+	height:100%;
+	
+	color:#C00;
+	background:#333;
+}
+body{
+	min-height:100%;
+	margin:0;
+}
+@font-face{
+	font-family:'Source Sans Pro';
+	font-weight:200;
+	font-style:normal;
+	
+	src:url('fonts/source_sans_pro/extra_light.woff');
+}
+@font-face{
+	font-family:'Source Sans Pro';
+	font-weight:200;
+	font-style:italic;
+	
+	src:url('fonts/source_sans_pro/extra_light_italic.woff');
+}
+@font-face{
+	font-family:'Source Sans Pro';
+	font-weight:300;
+	font-style:normal;
+	
+	src:url('fonts/source_sans_pro/light.woff');
+}
+@font-face{
+	font-family:'Source Sans Pro';
+	font-weight:300;
+	font-style:italic;
+	
+	src:url('fonts/source_sans_pro/light_italic.woff');
+}
+@font-face{
+	font-family:'Source Sans Pro';
+	font-weight:400;
+	font-style:normal;
+	
+	src:url('fonts/source_sans_pro/normal.woff');
+}
+@font-face{
+	font-family:'Source Sans Pro';
+	font-weight:400;
+	font-style:italic;
+	
+	src:url('fonts/source_sans_pro/normal_italic.woff');
+}
+@font-face{
+	font-family:'Source Sans Pro';
+	font-weight:600;
+	font-style:normal;
+	
+	src:url('fonts/source_sans_pro/semi_bold.woff');
+}
+@font-face{
+	font-family:'Source Sans Pro';
+	font-weight:600;
+	font-style:italic;
+	
+	src:url('fonts/source_sans_pro/semi_bold_italic.woff');
+}
+@font-face{
+	font-family:'Source Sans Pro';
+	font-weight:700;
+	font-style:normal;
+	
+	src:url('fonts/source_sans_pro/bold.woff');
+}
+@font-face{
+	font-family:'Source Sans Pro';
+	font-weight:700;
+	font-style:italic;
+	
+	src:url('fonts/source_sans_pro/bold_italic.woff');
+}
+@font-face{
+	font-family:'Source Sans Pro';
+	font-weight:900;
+	font-style:normal;
+	
+	src:url('fonts/source_sans_pro/black.woff');
+}
+@font-face{
+	font-family:'Source Sans Pro';
+	font-weight:900;
+	font-style:italic;
+	
+	src:url('fonts/source_sans_pro/black_italic.woff');
+}
